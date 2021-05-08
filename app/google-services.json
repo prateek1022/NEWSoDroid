@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "422631943634",
+    "project_id": "newsodroid",
+    "storage_bucket": "newsodroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422631943634:android:a5f126853a161b7652ac0b",
+        "android_client_info": {
+          "package_name": "com.cu.newsodroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422631943634-ubldfr5h52h1h2bu30a68v8gtmtr53ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6G6PjivM5qzgXXl1jJBSTozPJzyR6L9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422631943634-ubldfr5h52h1h2bu30a68v8gtmtr53ns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9353983981907656~6650366114"
+    }
+  ],
+  "configuration_version": "1"
+}

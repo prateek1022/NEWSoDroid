@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NEWSoDroid</string>
+    <string name="location_dialog_heading">You have not given location permission, select it manually.</string>
+    <string name="india">India</string>
+    <string name="usa">U.S.A</string>
+    <string name="ad_attribution">Ad</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
