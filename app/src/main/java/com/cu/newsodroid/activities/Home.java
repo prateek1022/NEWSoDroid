@@ -94,6 +94,7 @@ public class Home extends AppCompatActivity {
         shimmerFrameLayout.setVisibility(View.GONE);
         apiInterface = APiUtils.apiInterface();
         recyclerView = findViewById(R.id.recycle);
+        //well this is a comment
         fusedLocationClient = LocationServices.getFusedLocationProviderClient(this);
         Boolean location_use = getIntent().getBooleanExtra("location", false);
 
@@ -490,7 +491,7 @@ public class Home extends AppCompatActivity {
             case "Ukraine":return_str=static_variables.Ukraine;
                 break;
             case "United Kingdom":return_str=static_variables.United_Kingdom;
-                break;
+                break; 
             case "United States":return_str=static_variables.United_States;
                 break;
             case "Venuzuela":return_str=static_variables.Venuzuela;
